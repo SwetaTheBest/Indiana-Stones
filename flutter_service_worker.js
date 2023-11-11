@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "5fb23358ec3ee9878c0db479f51d9496",
-"assets/AssetManifest.json": "e65faa6b0907719fa6606310fbfc4060",
+const RESOURCES = {"assets/AssetManifest.bin": "2d0b0d4777749b6ce15fe7af962a5a19",
+"assets/AssetManifest.json": "3cfba89cd598845ba980e6717980a922",
 "assets/assets/audio/assets_audio_bounce.wav": "63621de02044af415adcb0cdbc7afe87",
 "assets/assets/audio/assets_audio_collect_fruit.wav": "81efa093638b482b3593b1022837169d",
 "assets/assets/audio/assets_audio_disappear.wav": "1d328b82b7707e42002f42927346e923",
@@ -70,6 +70,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "5fb23358ec3ee9878c0db479f51d9496
 "assets/assets/images/Menu/Buttons/heart_4.png": "ba5ddb920ae2922171dfced4f476dfad",
 "assets/assets/images/Menu/Buttons/heart_5.png": "f236bd539a84e586386fc21d6d929492",
 "assets/assets/images/Menu/Buttons/Leaderboard.png": "e3854b8ad5633b1f8017d08b7a783047",
+"assets/assets/images/Menu/Buttons/Next.png": "2f75777c57c36c83c6140bbd7b97a5e1",
 "assets/assets/images/Menu/Buttons/pause.png": "6d930f95dc8b67ba5e9718c741b215a8",
 "assets/assets/images/Menu/Buttons/Play.png": "23f2b2a41eb467518bbfef795d876dc8",
 "assets/assets/images/Menu/Buttons/Restart.png": "45fe1343f546485e8e288b122467f2fd",
@@ -84,9 +85,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "5fb23358ec3ee9878c0db479f51d9496
 "assets/assets/tiles/inca_back_dark.tsx": "aff78d5b5616dd03419a247a9f5ce76c",
 "assets/assets/tiles/inca_back_tileset.tsx": "2709edd87155cefaf68bb47781a1acdf",
 "assets/assets/tiles/Inca_front_tileset.tsx": "6b0e131021ee63bd19aefb8ea277afc0",
-"assets/assets/tiles/inca_tiles.tmx": "bbd21d59a5e726b2ee3532606aaae5dc",
+"assets/assets/tiles/inca_tiles.tmx": "3870eb9e0bbee1c94b0f83a1c36bfab1",
 "assets/assets/tiles/mario_game_tileset.tiled-project": "f569bfd3353c5a0faa26a765cae42f0d",
-"assets/assets/tiles/mario_game_tileset.tiled-session": "23b5371097c414f5779c8b1877afcbb5",
+"assets/assets/tiles/mario_game_tileset.tiled-session": "e66f06f096bda7536f850188a3d3e88b",
 "assets/FontManifest.json": "cf067bd47b79db2902360d1ffe210994",
 "assets/fonts/MaterialIcons-Regular.otf": "32fce58e2acb9c420eab0fe7b828b761",
 "assets/fonts/PressStart2P-Regular.ttf": "f98cd910425bf727bd54ce767a9b6884",
@@ -106,11 +107,11 @@ const RESOURCES = {"assets/AssetManifest.bin": "5fb23358ec3ee9878c0db479f51d9496
 "icons/Icon-512.png": "1220e9efc13e3be06033f6cafccf430a",
 "icons/Icon-maskable-192.png": "148d9ce6880e2503fc4e468a776f87c0",
 "icons/Icon-maskable-512.png": "1220e9efc13e3be06033f6cafccf430a",
-"index.html": "0860796dd3b2639bf84a88aacabef6b3",
-"/": "0860796dd3b2639bf84a88aacabef6b3",
-"main.dart.js": "5df5d059adf11d7548c2ad5c23ab60af",
+"index.html": "43e44a94039dd4a4c52d1411cb341ae5",
+"/": "43e44a94039dd4a4c52d1411cb341ae5",
+"main.dart.js": "6cbd6ad37b5f5a422dc580ffa5a28fbf",
 "manifest.json": "205d5748b00af8e0ba1c04652968fa8a",
-"version.json": "e2d44466afc64a1752a5e2b42ddcb764"};
+"version.json": "3c4ae7f0e9a2e5b32aa58586f2ec0a6d"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
