@@ -4,7 +4,8 @@
 Indiana is lost in one his Archaeological excavation. Would he survive?
 
 ![Indiana Stones](https://github.com/SwetaTheBest/Indiana-Stones/assets/30392938/a3ad2ba5-d758-445f-954c-e3d0344cf960)
-
+</br></br>
+![ScreenShot](https://github.com/SwetaTheBest/Indiana-Stones/assets/30392938/24928915-a0c0-4a51-81ae-dd195f77d984)
 
 
 ## Play game [Click here](https://swetathebest.github.io/Indiana-Stones/)
@@ -19,10 +20,12 @@ Indiana is lost in one his Archaeological excavation. Would he survive?
 
 I want to extend my heartfelt thanks to the amazing Flutter and Flame game development communities for their continuous support, knowledge sharing, and passion for pushing the boundaries of game development. 🙌
 
-[Spydon](https://github.com/spydon) </br>
-[Spellthorn](https://github.com/Spellthorn) </br>
-pzuh </br>
-pixelfrog
+Inspirations:  </br>
+[Lukas Klingsbo (Spydon)](https://github.com/spydon) </br>
+[Spellthorn](https://github.com/Spellthorn) </br></br>
+Assets from: </br>
+[pzuh](https://pzuh.itch.io/) </br>
+[pixelfrog](https://twitter.com/PixelFrogStudio)
 
 
 ## With love from  [Sweta Jain](https://stackoverflow.com/users/6921031/sweta-jain)
